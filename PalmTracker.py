@@ -6,9 +6,9 @@ import numpy as np
 # global variables
 bg = None
 
-n=2020
+n=2020 # number of images need to be taken
 
-path = r"data/blank/blank_"
+path = r"data/blank/blank_" # path including image name where images will be saved
 print(path)
 
 def run_avg(image, aWeight):
