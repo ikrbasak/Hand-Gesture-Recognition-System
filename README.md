@@ -24,5 +24,9 @@ This repository contains all the `codes` for our project titled as **Hand Gestur
 - [ ] [controll.py](https://github.com/kr-basak/Hand-Gesture-Recognition-System/blob/main/controll.py) : This is an optional functionality. If you want to controll your PC through hand gestures, this might help you. To use this functionality - 1. Import [this](https://github.com/kr-basak/Hand-Gesture-Recognition-System/blob/main/controll.py) file in [num-recog.py](https://github.com/kr-basak/Hand-Gesture-Recognition-System/blob/main/num-recog.py) and add `controll(predicted_class)` function to the line number *83*.
 
 ## Screenshots
-![one-gesture](images/one.png) ![two-gesture](data/two.png) !![three-gesture](data/three.png)
-![four-gesture](data/four.png) ![five-gesture](data/five.png) ![blank-gesture](data/blank.png) !
+![one-gesture](images/one.png) 
+![two-gesture](data/two.png) 
+![three-gesture](data/three.png)
+![four-gesture](data/four.png) 
+![five-gesture](data/five.png) 
+![blank-gesture](data/blank.png)
