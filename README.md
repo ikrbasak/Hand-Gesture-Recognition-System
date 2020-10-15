@@ -19,4 +19,4 @@ This repository contains all the `codes` for our project titled as **Hand Gestur
 8. Matplotlib
 
 ## Work Explanation
-[x] [PalmTracker.py] (https://github.com/kr-basak/Hand-Gesture-Recognition-System/blob/main/PalmTracker.py): 
+[x] [PalmTracker.py](https://github.com/kr-basak/Hand-Gesture-Recognition-System/blob/main/PalmTracker.py): 
